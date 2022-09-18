@@ -9,3 +9,4 @@ Sistem kasir ini digunakan untuk menghitung total diskon yang didapatkan oleh pe
 
 Dikerjakan Oleh :
 - 'Ayu Ramazani -BE2568773'
+- AYU_RAMAZANI-BE2568773
