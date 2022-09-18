@@ -5,7 +5,6 @@ Sistem kasir ini digunakan untuk menghitung total diskon yang didapatkan oleh pe
 - Flowchart.drawio
 - README.md
 - Pseudocode.txt
-- Algoritmaa.txt
 
 Dikerjakan Oleh :
 - 'Ayu Ramazani -BE2568773'
