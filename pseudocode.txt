@@ -1,0 +1,16 @@
+Start.
+Read String nama_barang.
+Read Int jumlah_barang, harga, total harga.
+Read Double diskon = 0.075, total bayar.
+Print masukan nama barang.
+Read nama_barang=input.nextLine().
+Print masukan jumlah barang.
+Read jumlah_barang=input.nextInt().
+Print masukan harga barang
+Read harga=input.nextInt().
+Mulai pernyataan IF.
+IF : Jika memasukan jumlah barang kurang sama dengan 0 maka error.
+IF : Jika memasukan harga barang kurang sama dengan 100 maka error.
+Perhitungan diskon = totalharga * diskon.
+Perhitungan total bayar = totalharga-diskon.
+Stop
